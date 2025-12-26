@@ -1,0 +1,2 @@
+class_name DLog_BasicLogger
+extends DLog_AbstractLogger
